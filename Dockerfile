@@ -21,3 +21,6 @@ RUN mkdir -p /goprojects/src/github.com/genchilu
 
 RUN go get -u github.com/nsf/gocode
 RUN go install github.com/nsf/gocode
+
+# add gosublime plugin
+COPY ./sublime-text-3/ /root/.config/sublime-text-3/

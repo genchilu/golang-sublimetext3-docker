@@ -1,0 +1,13 @@
+{
+	"9o.hist./goprojects/src/github.com/golang-test":
+	[
+		"./go golang-test",
+		"go",
+		"go go build golang-test.go",
+		"go build golang-test.go",
+		"./golang-test"
+	],
+	"ann": "a14.02.25-1",
+	"install_version": "r14.12.06-1",
+	"version": "r14.12.06-1"
+}

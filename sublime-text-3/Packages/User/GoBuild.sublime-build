@@ -1,0 +1,4 @@
+    {
+        "shell_cmd": go run $file",
+        "encoding": "utf-8"
+    }
